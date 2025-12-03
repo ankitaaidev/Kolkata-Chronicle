@@ -31,7 +31,7 @@ npm install
 Start the server:
 node server.js
 Open your browser and visit:
-http://localhost:3000
+https://wonderful-sorbet-fa43c5.netlify.app/
 
 🎯 Usage
 Click on a location to travel back in time

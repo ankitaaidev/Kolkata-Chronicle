@@ -26,10 +26,6 @@ git clone <repo-link>
 Navigate into the project folder:
 cd Kolkata-chronicle
 
-Install dependencies:
-npm install
-Start the server:
-node server.js
 Open your browser and visit:
 https://wonderful-sorbet-fa43c5.netlify.app/
 
